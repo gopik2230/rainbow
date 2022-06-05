@@ -1,0 +1,97 @@
+.container {
+    padding-top: 50px;
+    font-family: Merriweather;
+}
+
+.subhead {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.imglogo {
+    width: 6rem;
+}
+
+#navbarTogglerDemo02 a {
+    border-bottom: 2px solid transparent;
+}
+
+#navbarTogglerDemo02 a:hover {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+h1 {
+    font-family: 'Montserrat', cursive;
+    font-size: 3.5rem;
+}
+
+#header {
+    padding: 1% 15%;
+    position: relative;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+h2 {
+    font-family: "Montserrat-bold";
+    font-size: 2.5rem;
+}
+
+#corasal {
+    text-align: center;
+}
+
+.corasal-image {
+    width: 20%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.carasol-h3 {
+    text-align: center;
+    color: white;
+}
+
+#Courses {
+    padding: 5% 7%;
+    /* color: rgb(0, 0, 100) */
+    color: gray;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+.pricing-column {
+    padding: 5% 1%;
+}
+
+.card-body {
+    padding: 2% 3% 0;
+}
+
+#footer {
+    padding: 4% 15%;
+    text-align: center;
+    color: white;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+.tye-up {
+    width: 13%;
+    text-align: center;
+    margin: 0 5%;
+}
+
+#tyeup-sec {
+    padding: 7% 10%;
+    text-align: center;
+}
